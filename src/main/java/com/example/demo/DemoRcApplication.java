@@ -10,6 +10,7 @@ public class DemoRcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoRcApplication.class, args);
+		System.out.println("Test Branch");
 	}
 
 }
